@@ -1,0 +1,13 @@
+/* || Variables */
+@import 'variables/colors.css';
+
+/* || Reset and base files */
+@import 'base.css';
+
+/* || Layouts */
+@import 'layout.css';
+
+/* || blocks */
+@import 'common.blocks/styles.css';
+@import 'desktop.blocks/styles.css';
+@import 'mobile.blocks/styles.css';
