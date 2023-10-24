@@ -8,6 +8,6 @@
 @import 'layout.css';
 
 /* || blocks */
-@import 'common.blocks/styles.css';
-@import 'desktop.blocks/styles.css';
-@import 'mobile.blocks/styles.css';
+@import 'common.blocks/main.css';
+@import 'desktop.blocks/main.css';
+@import 'mobile.blocks/main.css';
